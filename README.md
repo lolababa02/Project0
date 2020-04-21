@@ -12,7 +12,7 @@ The Input/entry fields in the contact.html page have not been enabled just yet. 
 
 
 Main contents/Files:
-4 main html pages: About.html, Video.html, Lessons.html, Contact.html
+4 main html pages: Index.html, Video.html, Lessons.html, Contact.html
 1 video file: Fantaisie_Impromptu.mp4
 1 Picture file: Profile_pic.jpg
 2 css files: Mystyle.css, variables.css
